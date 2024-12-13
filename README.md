@@ -18,18 +18,6 @@ Technologies Used:
 => REDUX is used to maintain State of REACT application.
 
 
-import React from 'react';
-
-export default function LoadingBox(){
-    return(
-        <div>
-            
-        </div>
-    );
-}
-
-
-
 => Implemented Sort By .
 => Implemented Search Bar.
 
